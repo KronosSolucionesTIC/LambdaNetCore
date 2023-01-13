@@ -1,0 +1,17 @@
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\bin\Release\net6.0\linux-x64\AWSLambda2.deps.json
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\bin\Release\net6.0\linux-x64\AWSLambda2.runtimeconfig.json
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\bin\Release\net6.0\linux-x64\AWSLambda2.dll
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\bin\Release\net6.0\linux-x64\AWSLambda2.pdb
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\AWSLambda2.csproj.AssemblyReference.cache
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\AWSLambda2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\AWSLambda2.AssemblyInfoInputs.cache
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\AWSLambda2.AssemblyInfo.cs
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\AWSLambda2.csproj.CoreCompileInputs.cache
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\AWSLambda2.csproj.CopyComplete
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\AWSLambda2.dll
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\refint\AWSLambda2.dll
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\AWSLambda2.pdb
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\AWSLambda2.genruntimeconfig.cache
+C:\Users\diego.marin\Documents\PruebaMicroservicios\AWSLambda2\obj\Release\net6.0\linux-x64\ref\AWSLambda2.dll
